@@ -1,0 +1,63 @@
+.header.h1{
+    color: blue
+}
+h1{
+    color: rgb(9, 97, 248);
+}
+
+img{
+    border-radius: 15% 30%;
+}
+
+/* .portfolio{
+    background-image: url("img.png");
+
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+
+    height:100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;;
+} */
+
+.parent{
+
+
+ 
+    float:left;
+    width: 30%;
+}
+.projectcard1{
+    margin-right: 20%;
+    text-align: center;
+}
+
+
+.projectcard2{
+    margin-right: 20%;
+    text-align: center;
+}
+
+.projectcard3{
+    margin-right: 20%;
+    text-align: center;
+}
+
+.parent2{
+    float:left;
+    width: 30%;
+}
+.projectcard4{
+    margin-right: 20%;
+    text-align: center;
+}
+.projectcard5{
+    margin-right: 20%;
+    text-align: center;
+}
+.projectcard6{
+    margin-right: 20%;
+    text-align: center;
+}
